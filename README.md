@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LelouchFR
+- 👀 I’m interested in webdesign.
+- 🌱 I’m currently learning css3.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me instagram: gumball0670.css
