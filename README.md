@@ -2,4 +2,4 @@
 - 👀 I’m interested in webdesign.
 - 🌱 I’m currently learning css3.
 - 💞️ I’m looking to collaborate and make me friends that could help öe out with some problems.
-- 📫 How to reach me instagram: gumball0670.css
+- 📫 instagram: gumball0670.css
