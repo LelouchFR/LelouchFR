@@ -2,4 +2,4 @@
 - 👀 I’m interested in **front-end development**.
 - 🌱 I’m currently learning **React Js**.
 - 💞️ I’m looking to make me friends that can help me with problems.
-- 📫 instagram: **gumball0670.css** / **gumball0670.js**
+- 📫 instagram: **[gumball0670.css](https://www.instagram.com/gumball0670.css/)** / **[gumball0670.js](https://www.instagram.com/gumball0670.js/)**
