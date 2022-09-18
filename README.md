@@ -2,9 +2,11 @@
 <p align="center">I'm a Front-end dev from France 🇫🇷</p>
 
 ## About Me
-27/02/2006 🎉<br>
+<h3>Baptiste Zahnow 👨🏻‍💻👨🏻‍🎓</h3>
+<p>27/02/2006 🎉<br>
 Strasbourg (France) 📍<br>
-🐱‍👤🐱‍💻
+French, German, English <br>
+🐱‍👤🐱‍💻</p>
 
 ## Skills
 - 👨‍💻 HTML, Css3, JavaScript, Python
