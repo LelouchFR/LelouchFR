@@ -9,8 +9,7 @@ French, German, English <br>
 🐱‍👤🐱‍💻</p>
 
 ## Skills
-- 👨‍💻 HTML, Css3, JavaScript, Python
-- ⚙️ React
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LelouchFR)](https://github.com/LelouchFR/github-readme-stats)
 
 <br><br><br>
 <h5 align="center">instagram: <a href="https://www.instagram.com/gumball0670.css">gumball0670.css</a> / <a href="https://www.instagram.com/gumball0670.js">gumball0670.js</a></h5>
