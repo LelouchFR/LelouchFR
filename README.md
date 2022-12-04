@@ -9,7 +9,7 @@ French, German, English <br>
 🐱‍👤🐱‍💻</p>
 
 
-![](https://komarev.com/ghpvc/?username=LelouchFR)
+![](https://komarev.com/ghpvc/?username=LelouchFR&label=visitors)
 
 
 ## Skills
