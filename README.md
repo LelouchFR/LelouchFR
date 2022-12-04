@@ -1,6 +1,10 @@
 <h3 align="center">👋 Hi, I’m LelouchFR</h3>
 <p align="center">I'm a Front-end dev from France 🇫🇷</p>
 
+
+![](https://komarev.com/ghpvc/?username=LelouchFR)
+
+
 ## About Me
 <h3>Baptiste Zahnow 👨🏻‍💻👨🏻‍🎓</h3>
 <p>27/02/2006 🎉<br>
