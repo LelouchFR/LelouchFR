@@ -18,5 +18,8 @@ French, German, English <br>
 
 ![LelouchFR's GitHub stats](https://github-readme-stats.vercel.app/api?username=LelouchFR&theme=github_dark)
 
+
+
+<a href="https://www.buymeacoffee.com/lelouchFR"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lelouchFR&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <br><br><br>
 <h5 align="center">instagram: <a href="https://www.instagram.com/gumball0670.css">gumball0670.css</a> / <a href="https://www.instagram.com/gumball0670.js">gumball0670.js</a></h5>
