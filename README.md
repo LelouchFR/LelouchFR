@@ -19,6 +19,9 @@ French, German, English <br>
 ![LelouchFR's GitHub stats](https://github-readme-stats.vercel.app/api?username=LelouchFR&theme=github_dark)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LelouchFR&theme=github-dark-blue)](https://git.io/streak-stats)
+
+
 
 <a href="https://www.buymeacoffee.com/lelouchFR"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lelouchFR&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <br><br><br>
