@@ -12,11 +12,12 @@ French, German, English <br>
 ![](https://komarev.com/ghpvc/?username=LelouchFR&label=visitors)
 
 
+
 ## Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LelouchFR&theme=github_dark)
+![LelouchFR's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LelouchFR&theme=github_dark)
 
 
-![LelouchFR's GitHub stats](https://github-readme-stats.vercel.app/api?username=LelouchFR&theme=github_dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LelouchFR&theme=github_dark)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LelouchFR&theme=github-dark-blue)](https://git.io/streak-stats)
