@@ -13,7 +13,7 @@ French, German, English <br>
 
 
 
-## Skills
+## Github stats
 ![LelouchFR's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LelouchFR&theme=github_dark)
 
 
