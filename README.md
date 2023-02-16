@@ -21,6 +21,8 @@ French, German, English <br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+I'm working a lot on ReactJS right now
+
 
 
 ## Github stats
