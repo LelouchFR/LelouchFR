@@ -21,7 +21,7 @@ French, German, English <br>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-[My last projet](https://github.com/LelouchFR/cosmic-adventure), Feel free to help this project out!
+[My last projet](https://github.com/LelouchFR/PLauncher), Feel free to help this project out!
 
 
 
