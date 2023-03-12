@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi, I’m LelouchFR</h3>
-<p align="center">I'm a Front-end dev from France 🇫🇷</p>
+<p align="center">I'm a Front-end dev from France</p>
 
 ## About Me
 <h3>Baptiste Zahnow 👨🏻‍💻👨🏻‍🎓</h3>
