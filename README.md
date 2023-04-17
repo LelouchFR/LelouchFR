@@ -38,5 +38,5 @@ French, German, English <br>
 
 
 <br><br><br>
-<p align="center"><a href="mailto:dev.baptiste.zahnow@gmail.com">Contact me</a></p>
+<h5 align="center"><a href="mailto:dev.baptiste.zahnow@gmail.com">Contact me using mail</a></h5>
 <h5 align="center">instagram: <a href="https://www.instagram.com/gumball0670.css">gumball0670.css</a> / <a href="https://www.instagram.com/gumball0670.js">gumball0670.js</a></h5>
