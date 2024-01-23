@@ -8,34 +8,21 @@ Strasbourg (France) 📍<br>
 French, German, English <br>
 🐱‍👤🐱‍💻</p>
 
-[Help me for my latest project !](https://github.com/LelouchFR/Moodle-DarkMode)
-
-
 ![](https://komarev.com/ghpvc/?username=LelouchFR&label=visitors)
 
+## Languages, Technologies and Tools I use:
 
-## Technologies
+![Languages](https://skillicons.dev/icons?i=typescript,javascript,html,css,scss,rust,wasm,python,php,mysql)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Technologies](https://skillicons.dev/icons?i=react,vue,threejs,nodejs)
 
+![Tools](https://skillicons.dev/icons?i=neovim,git,github,figma,discord)
 
-## Github stats
+## My Github stats:
 
-![LelouchFR's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LelouchFR&theme=github_dark)
+![LelouchFR's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelouchfr&theme=dracula)
 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LelouchFR&theme=github_dark)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LelouchFR&theme=github-dark-blue)](https://git.io/streak-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchfr&langs_count=8&layout=compact&theme=dracula)
 
 <br><br><br>
 <h5 align="center"><a href="mailto:dev.baptiste.zahnow@gmail.com">Contact me using mail</a></h5>
