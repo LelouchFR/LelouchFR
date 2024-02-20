@@ -14,9 +14,9 @@ French, German, English <br>
 
 ![Languages](https://skillicons.dev/icons?i=typescript,javascript,html,css,scss,rust,wasm,python,php,mysql)
 
-![Technologies](https://skillicons.dev/icons?i=react,vue,firebase,threejs,nodejs)
+![Technologies](https://skillicons.dev/icons?i=react,vue,firebase,yew,threejs,nodejs)
 
-![Tools](https://skillicons.dev/icons?i=neovim,git,github,figma,netlify,vite,discord)
+![Tools](https://skillicons.dev/icons?i=neovim,git,github,figma,netlify,npm,vite,discord,windows,kali)
 
 ## My Github stats:
 
