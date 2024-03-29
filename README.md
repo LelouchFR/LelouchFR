@@ -5,18 +5,17 @@
 <h3>Baptiste Zahnow 👨🏻‍💻👨🏻‍🎓</h3>
 <p>27/02/2006 🎉<br>
 Strasbourg (France) 📍<br>
-French, German, English <br>
-🐱‍👤🐱‍💻</p>
+French, German, English</p>
 
 ![](https://komarev.com/ghpvc/?username=LelouchFR&label=visitors)
 
 ## Languages, Technologies and Tools I use:
 
-![Languages](https://skillicons.dev/icons?i=typescript,javascript,html,css,scss,rust,wasm,python,php,mysql)
+![Languages](https://skillicons.dev/icons?i=wasm,typescript,javascript,html,css,scss,rust,python,php,mysql)
 
 ![Technologies](https://skillicons.dev/icons?i=react,vue,firebase,yew,threejs,nodejs)
 
-![Tools](https://skillicons.dev/icons?i=neovim,git,github,figma,netlify,npm,vite,discord,windows,kali)
+![Tools](https://skillicons.dev/icons?i=arch,neovim,git,github,figma,netlify,npm,vite,discord)
 
 ## My Github stats:
 
