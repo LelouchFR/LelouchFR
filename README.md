@@ -2,10 +2,7 @@
 <p align="center">I'm a Front-end dev from France</p>
 
 ## About Me
-<h3>Baptiste Zahnow 👨🏻‍💻👨🏻‍🎓</h3>
-<p>27/02/2006 🎉<br>
-Strasbourg (France) 📍<br>
-French, German, English</p>
+<p>Born in february the 27th in 2006 in Hannover (Germany), living in Strasbourg (France)<p>
 
 ![](https://komarev.com/ghpvc/?username=LelouchFR&label=visitors)
 
@@ -17,13 +14,14 @@ French, German, English</p>
 
 ![Tools](https://skillicons.dev/icons?i=arch,neovim,git,github,figma,netlify,npm,vite,discord)
 
-## My Github stats:
-
-![LelouchFR's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelouchfr&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchfr&langs_count=8&layout=compact&theme=dracula)
-
-<br><br><br>
-<h5 align="center"><a href="mailto:dev.baptiste.zahnow@gmail.com">Contact me using mail</a></h5>
-<h5 align="center"><a href="https://linknode.online/user/oxMLFfC1KsX8vRQ7G8qQAA9F6Np2">My Node</a></h5>
-<h5 align="center">instagram: <a href="https://www.instagram.com/gumball0670.css">gumball0670.css</a> / <a href="https://www.instagram.com/gumball0670.js">gumball0670.js</a></h5>
+<details>
+    <summary><h2>My Github Stats</h2></summary>
+    <figure>
+        <img src="https://github-readme-stats.vercel.app/api?username=lelouchfr&theme=dracula" />
+        <figcaption>LelouchFR's GitHub stats</figcaption>
+    </figure>
+    <figure>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchfr&langs_count=8&layout=compact&theme=dracula" />
+        <figcaption>Top Langs</figcaption>
+    </figure>
+</details>
