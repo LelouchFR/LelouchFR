@@ -18,10 +18,6 @@
     <summary><h2>My Github Stats</h2></summary>
     <figure>
         <img src="https://github-readme-stats.vercel.app/api?username=lelouchfr&theme=dracula" />
-        <figcaption>LelouchFR's GitHub stats</figcaption>
-    </figure>
-    <figure>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelouchfr&langs_count=8&layout=compact&theme=dracula" />
-        <figcaption>Top Langs</figcaption>
     </figure>
 </details>
