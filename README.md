@@ -8,7 +8,7 @@
 
 ## Languages, Technologies and Tools I use:
 
-![Languages](https://skillicons.dev/icons?i=wasm,typescript,javascript,html,css,scss,rust,python,php,mysql)
+![Languages](https://skillicons.dev/icons?i=wasm,typescript,javascript,html,css,scss,go,rust,python,php,mysql)
 
 ![Technologies](https://skillicons.dev/icons?i=react,vue,firebase,yew,threejs,nodejs)
 
