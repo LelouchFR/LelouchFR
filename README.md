@@ -8,11 +8,11 @@
 
 ## Languages, Technologies and Tools I use:
 
-![Languages](https://skillicons.dev/icons?i=wasm,typescript,javascript,html,css,scss,go,rust,python,php,mysql)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=wasm,ts,js,html,css,scss,go,rust,py,php,mysql)
 
-![Technologies](https://skillicons.dev/icons?i=react,vue,firebase,yew,threejs,nodejs)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vue,firebase,yew,threejs,nodejs)
 
-![Tools](https://skillicons.dev/icons?i=arch,neovim,git,github,figma,netlify,npm,vite,discord)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=arch,neovim,i3,kde,git,github,figma,netlify,vercel,npm,vite,discord)
 
 <details>
     <summary><h2>My Github Stats</h2></summary>
