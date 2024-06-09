@@ -8,7 +8,7 @@
 
 ## Languages, Technologies and Tools I use:
 
-![Languages](https://go-skill-icons.vercel.app/aou/icons?i=wasm,ts,js,html,css,scss,go,rust,py,php,mysql)
+![Languages](https://go-skill-icons.vercel.app/aoi/icons?i=wasm,ts,js,html,css,scss,go,rust,py,php,mysql)
 
 ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vue,firebase,yew,threejs,nodejs)
 
