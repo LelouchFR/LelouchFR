@@ -2,9 +2,26 @@
 <p align="center">I'm a Front-end dev from France</p>
 
 ## About Me
-<p>Born in february the 27th in 2006 in Hannover (Germany), living in Strasbourg (France)<p>
 
-![](https://komarev.com/ghpvc/?username=LelouchFR&label=visitors)
+```rs
+pub struct Lelouch {
+    pub name: Name,
+    pub age: i8,
+    pub languages: Vec<Langs>,
+}
+
+impl Lelouch {
+    pub fn create() -> Self {
+        Lelouch {
+            name: Name::new("Baptiste", "Zahnow"),
+            age: 18,
+            languages: vec![Langs::French, Langs::German, Langs::English],
+        }
+    }
+}
+```
+
+<p>Born in february the 27th in 2006 in Hannover (Germany), living in Strasbourg (France)<p>
 
 ## Languages, Technologies and Tools I use:
 
