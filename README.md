@@ -23,13 +23,24 @@ impl Lelouch {
 
 <p>Born in february the 27th in 2006 in Hannover (Germany), living in Strasbourg (France)<p>
 
-## Languages, Technologies and Tools I use:
+## My Skills
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=wasm,ts,js,html,css,scss,go,rust,py,php,mysql)
+### Environment
 
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vue,firebase,yew,threejs,nodejs)
+![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=gentoo,arch,i3,alacritty,neovim,firefox,chromium)
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=gentoo,arch,neovim,i3,kde,git,github,figma,netlify,vercel,npm,vite,discord)
+### Languages
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=wasm,ts,js,html,css,scss,go,rust,py,php,mysql,lua,gleam&perline=7)
+
+### Technologies
+
+
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vue,firebase,threejs,nodejs,yew,twig)
+
+### Tools
+
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,miro,git,github,figma,vite,npm,netlify,vercel&perline=7)
 
 <details>
     <summary><h2>My Github Stats</h2></summary>
