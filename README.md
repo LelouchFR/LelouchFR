@@ -31,7 +31,7 @@ impl Lelouch {
 
 ### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=wasm,ts,js,html,css,scss,go,rust,py,php,mysql,lua,gleam&perline=7)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=wasm,ts,js,html,css,scss,go,c,rust,py,php,mysql,lua,gleam&perline=7)
 
 ### Technologies
 
