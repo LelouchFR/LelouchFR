@@ -40,7 +40,7 @@ impl Lelouch {
 
 ### Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,miro,git,github,figma,vite,npm,netlify,vercel&perline=7)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,miro,ps,ai,figma,git,github,vite,npm,netlify,vercel&perline=7)
 
 <details>
     <summary><h2>My Github Stats</h2></summary>
