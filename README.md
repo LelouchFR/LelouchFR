@@ -14,7 +14,7 @@ impl Lelouch {
     pub fn create() -> Self {
         Lelouch {
             name: Name::new("Baptiste", "Zahnow"),
-            age: 18,
+            age: 19,
             languages: vec![Langs::French, Langs::German, Langs::English],
         }
     }
