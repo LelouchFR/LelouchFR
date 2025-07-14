@@ -27,20 +27,19 @@ impl Lelouch {
 
 ### Environment
 
-![Operating Systems](https://go-skill-icons.vercel.app/api/icons?i=gentoo,arch,i3,alacritty,neovim,firefox,chromium)
+![Computer Environment](https://go-skill-icons.vercel.app/api/icons?i=gentoo,arch,i3,alacritty,neovim,catppuccin,systemd,nvidia,firefox,chromium&perline=5)
 
 ### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=wasm,ts,js,html,css,scss,go,c,rust,py,php,mysql,lua,gleam&perline=7)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=webassembly,typescript,javascript,html,css,sass,golang,rust,php,mysql,lua,python&perline=6)
 
 ### Technologies
 
-
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vue,firebase,threejs,nodejs,yew,twig)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vuejs,nodejs,yew,wordpress,symfony,laravel,twig,tailwindcss,htmx&perline=5)
 
 ### Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,miro,ps,ai,figma,git,github,vite,npm,netlify,vercel&perline=7)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,miro,photoshop,illustrator,figma,git,github,vite,netlify,vercel,npm,composer&perline=6)
 
 <details>
     <summary><h2>My Github Stats</h2></summary>
