@@ -1,5 +1,7 @@
-<h3 align="center">👋 Hi, I’m LelouchFR</h3>
-<p align="center">I'm a Front-end dev from France</p>
+![Baptiste Zahnow Full Stack Developer](./content/gh_hero.png)
+
+<h3>👋 Hi, I’m Baptiste Zahnow aka LelouchFR</h3>
+<p>I'm a Front-end dev from France</p>
 
 ## About Me
 
@@ -21,25 +23,35 @@ impl Lelouch {
 }
 ```
 
-<p>Born in february the 27th in 2006 in Hannover (Germany), living in Strasbourg (France)<p>
+<p>Born in february the 27th in 2006 in Hannover (Germany), living in Strasbourg (France). See more about my content on my website: <a href="https://baptiste-zahnow.fr">https://baptiste-zahnow.fr</a><p>
+
+## Latest blogposts
+
+Sorry it's only in french...
+
+|<br>|<br>|<br>|
+|-|-|-|
+|<img src="./content/blog/04-03-26.png" width="300" alt="" align="center" />|<img src="./content/blog/13-02-26.png" width="300" alt="" align="center" />|<img src="./content/blog/24-12-25.png" width="300" alt="" align="center" />|
+|<h3>DEVLOG 1: Mise en ligne de mon portfolio</h3><br><p>Mon portfolio est en ligne! Des mois de réflexion, de design et d'optimisation pour vous proposer une expérience fluide et moderne.</p><br><a href="https://baptiste-zahnow.fr/blog/04-03-26">En savoir plus</a>|<h3>Les langages de programmation les plus utilisés en 2025</h3><br><p>Quand la désérialisation de React ouvre la porte à une prise de contrôle totale du serveur</p><br><a href="https://baptiste-zahnow.fr/blog/13-02-26">En savoir plus</a>|<h3>Est-ce possible de changer la couleur du château de Duras depuis le terminal ?</h3><br><p>Comment j'ai rétro-ingénierer l'api de couleur du château de Duras pour en faire une interface de ligne de commande ?</p><br><a href="https://baptiste-zahnow.fr/blog/24-12-25">En savoir plus</a>|
 
 ## My Skills
 
 ### Environment
 
-![Computer Environment](https://go-skill-icons.vercel.app/api/icons?i=gentoo,arch,i3,alacritty,neovim,catppuccin,systemd,nvidia,firefox,chromium&perline=5)
+![Computer Environment](./content/environment.svg)
 
 ### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=webassembly,typescript,javascript,html,css,sass,golang,rust,php,mysql,lua,python&perline=6)
+![Languages](./content/languages.svg)
 
 ### Technologies
 
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,vuejs,nodejs,yew,wordpress,symfony,laravel,twig,tailwindcss,htmx&perline=5)
+![Technologies](./content/technologies.svg)
 
 ### Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=discord,miro,photoshop,illustrator,figma,git,github,vite,netlify,vercel,npm,composer&perline=6)
+![Tools](./content/tools.svg)
+
 
 <details>
     <summary><h2>My Github Stats</h2></summary>
