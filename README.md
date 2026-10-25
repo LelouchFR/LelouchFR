@@ -31,8 +31,8 @@ Sorry it's only in french...
 
 |<br>|<br>|<br>|
 |-|-|-|
-|<img src="./content/blog/04-03-26.png" width="300" alt="" align="center" />|<img src="./content/blog/13-02-26.png" width="300" alt="" align="center" />|<img src="./content/blog/24-12-25.png" width="300" alt="" align="center" />|
-|<h3>DEVLOG 1: Mise en ligne de mon portfolio</h3><p>Mon portfolio est en ligne! Des mois de réflexion, de design et d'optimisation pour vous proposer une expérience fluide et moderne.</p><a href="https://baptiste-zahnow.fr/blog/04-03-26">En savoir plus</a>|<h3>Les langages de programmation les plus utilisés en 2025</h3><p>Quand la désérialisation de React ouvre la porte à une prise de contrôle totale du serveur</p><a href="https://baptiste-zahnow.fr/blog/13-02-26">En savoir plus</a>|<h3>Est-ce possible de changer la couleur du château de Duras depuis le terminal ?</h3><p>Comment j'ai rétro-ingénierer l'api de couleur du château de Duras pour en faire une interface de ligne de commande ?</p><a href="https://baptiste-zahnow.fr/blog/24-12-25">En savoir plus</a>|
+|<img src="./content/blog/25-10-26.png" width="300" alt="" align="center" />|<img src="./content/blog/04-03-26.png" width="300" alt="" align="center" />|<img src="./content/blog/24-12-25.png" width="300" alt="" align="center" />|
+|<h3>DEVLOG 2: L'Open Source, dans la peau d’un mainteneur</h3><p>Qu'est-ce que l'Open Source ? Comment ça marche ? Comment contribuer ? Je réponds à ces questions en tant que mainteneur de projets libre de droit.</p><a href="https://baptiste-zahnow.fr/blog/25-10-26">En savoir plus</a>|<h3>DEVLOG 1: Mise en ligne de mon portfolio</h3><p>Mon portfolio est en ligne! Des mois de réflexion, de design et d'optimisation pour vous proposer une expérience fluide et moderne.</p><a href="https://baptiste-zahnow.fr/blog/04-03-26">En savoir plus</a>|<h3>Est-ce possible de changer la couleur du château de Duras depuis le terminal ?</h3><p>Comment j'ai rétro-ingénierer l'api de couleur du château de Duras pour en faire une interface de ligne de commande ?</p><a href="https://baptiste-zahnow.fr/blog/24-12-25">En savoir plus</a>|
 
 ## My Skills
 
